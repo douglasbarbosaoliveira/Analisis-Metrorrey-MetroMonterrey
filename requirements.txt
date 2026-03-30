@@ -1,0 +1,23 @@
+# =============================================================================
+# STC METRORREY - URBAN RESILIENCE ANALYSIS 
+# Dependencies for Data Processing, Machine Learning, and Visualization
+# =============================================================================
+
+# Data Manipulation & Statistical Analysis
+# Essential for IPK calculation and INEGI historical dataset processing
+pandas
+numpy
+
+# Machine Learning & Predictive Algorithms
+# Used for Random Forest, Logistic Regression, SVM, and MLP Classifier
+# Provides validation tools (Confusion Matrix, ROC Curves, and Metrics)
+scikit-learn
+
+# Visualization & Graphical Analysis
+# Used to generate stratification charts, loss curves, and performance plots
+matplotlib
+seaborn
+
+# Development Environment Support
+# Required for running and rendering Jupyter Notebooks (.ipynb)
+ipykernel
