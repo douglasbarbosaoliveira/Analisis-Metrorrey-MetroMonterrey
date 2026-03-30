@@ -64,6 +64,16 @@ Pesquisa desenvolvida na **Universidad de Monterrey (UDEM)** sobre a resiliênci
 | **3. Importance** | Feature Selection | `importancia-variables.png` | Confirmed IPK as the dominant variable for predicting system saturation. |
 | **4. Precision** | ROC Curves | `comparativa-CurvaROC.png` | Multi-model evaluation showing perfect classification capability. |
 
+------
+
+## 📑 Interactive Reports | Reportes | Relatórios (HTML)
+
+*Explore the full technical analysis and interactive visualizations:*
+
+* 🌐 [English: Metrorrey Operational Resilience Analysis](./reports/Clasificacion_Demanda_Operativa_Metrorrey.html)
+* 🌐 [Español: Clasificación de Resiliencia STC Metrorrey](./reports/Clasificacion_Demanda_Operativa_Metrorrey.html)
+* 🌐 [Português: Inteligência Artificial e Resiliência Urbana](./reports/Clasificacion_Demanda_Operativa_Metrorrey.html)
+
 ---
 
 ## 🖼️ Visualizations | Visualizaciones | Visualizações
