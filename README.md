@@ -70,12 +70,12 @@ Pesquisa desenvolvida na **Universidad de Monterrey (UDEM)** sobre a resiliênci
 
 <table align="center">
   <tr>
-    <td align="center"><b>1. Annual Ridership Trend</b><br><img src="evolucion-anual-pasajeros.png" width="300px"></td>
-    <td align="center"><b>2. Stratification Validation</b><br><img src="validacion-estratificacion.png" width="300px"></td>
+    <td align="center"><b>1. Annual Ridership Trend</b><br><img src="./visuals/evolucion-anual-pasajeros.png" width="300px"></td>
+    <td align="center"><b>2. Stratification Validation</b><br><img src="./visuals/validacion-estratificacion.png" width="300px"></td>
   </tr>
   <tr>
-    <td align="center"><b>3. Variable Importance (IPK)</b><br><img src="importancia-variables.png" width="300px"></td>
-    <td align="center"><b>4. Model Precision (ROC)</b><br><img src="comparativa-CurvaROC.png" width="300px"></td>
+    <td align="center"><b>3. Variable Importance (IPK)</b><br><img src="./visuals/importancia-variables.png" width="300px"></td>
+    <td align="center"><b>4. Model Precision (ROC)</b><br><img src="./visuals/comparativa-CurvaROC.png" width="300px"></td>
   </tr>
 </table>
 
